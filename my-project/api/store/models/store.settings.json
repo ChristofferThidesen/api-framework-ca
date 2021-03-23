@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stores",
+  "info": {
+    "name": "Store"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Shoes": {
+      "type": "string"
+    },
+    "Price": {
+      "type": "decimal"
+    },
+    "Description": {
+      "type": "string"
+    }
+  }
+}
