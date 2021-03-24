@@ -1,5 +1,3 @@
-Strapi
-email: admin@admin.com
-password: Pass1234
+# Strapi application
 
-# api-framework-ca
+A quick description of your strapi application
